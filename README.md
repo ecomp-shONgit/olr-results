@@ -3,8 +3,11 @@ In den Ordnern liegen die Ergebnisse der Software-Arbeitsschritte als Bilder vor
 
 # Inhalt
 Ordner "Original": Ausgangsdaten
+
 Ordner "POI": Points of Interest Selektion
+
 Ordner "Blattrand": Blatt-/Buchrand Selektion
+
 ...
 
 # Auswertung
