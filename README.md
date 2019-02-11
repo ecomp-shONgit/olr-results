@@ -8,7 +8,13 @@ Ordner "POI": Points of Interest Selektion
 
 Ordner "Blattrand": Blatt-/Buchrand Selektion
 
-...
+Ordner "Textblock": Textblock Selektion
+
+Ordner "Zeilen": Zeilenauswertung
+
+Ornder "Buchschmuck": Buchschmuck JA/NEIN
+
+# Quellen
 
 # Auswertung
 
