@@ -2,19 +2,27 @@
 In den Ordnern liegen die Ergebnisse der Software-Arbeitsschritte als Bilder vor. Die Auswertung findet sich als Tabelle unten in diesem README.
 
 # Inhalt
-Ordner "Original": Ausgangsdaten
+Ordner "ergXXXXXX": Ausgangsdaten
 
-Ordner "POI": Points of Interest Selektion
+Unterordner "0_POI": Points of Interest Selektion
 
-Ordner "Blattrand": Blatt-/Buchrand Selektion
+Unterordner "1_Rand_Traegermaterial": Blatt-/Buchrand Selektion
 
-Ordner "Textblock": Textblock Selektion
+Unterordner "2_thresholding_freistellen": unterdrücktes Trägermaterial, Thresholding, getragenes Material
 
-Ordner "Zeilen": Zeilenauswertung
+Unterordner "3_box_line_schmuck": Textblock Selektion, Zeilenauswertung, Buchschmuck JA/NEIN
 
-Ornder "Buchschmuck": Buchschmuck JA/NEIN
+Unterordner "4_altoxml": Daten im ALTO XML Format
 
-# Quellen
+# Stichproben
+
+Stichprobe 1: 
+  - Umfang 128 Seiten
+  - Entwicklungsgrundlage der Software
+  
+Stichprobe 2:
+  - Umfang x Seiten
+  - unbearbeitete Seiten
 
 # Auswertung
 
