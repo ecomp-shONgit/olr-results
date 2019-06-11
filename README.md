@@ -19,10 +19,14 @@ Unterordner "4_altoxml": Daten im ALTO XML Format
 Stichprobe 1: 
   - Umfang 128 Seiten
   - Entwicklungsgrundlage der Software
-  
+  - Quellen:
+    - http....
 Stichprobe 2:
   - Umfang x Seiten
   - unbearbeitete Seiten
+  - Quellen:
+    - http...
+
 
 # Auswertung
 
