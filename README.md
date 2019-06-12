@@ -61,4 +61,8 @@ rustc towebsite.rs
 
 # Auswertung
 
+Stichprobe 1 (11.06.2019) http://ecomparatio.net/~khk/ergO11062019/index.html
+
+
+
 
