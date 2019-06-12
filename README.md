@@ -55,6 +55,10 @@ Unterordner "4_altoxml": Daten im ALTO XML Format
 # Usage
 In den "ergXXXXXXXX" Ordnern liegt eine index.html, diese verweist auf die UnterOrdner. Mit dem Rust Programm in jedem Ordner kann ein index.html erzeugt werden, um eine Website zur Ansicht der Ergebnisse zu erzeugen.
 
+rustc towebsite.rs
+
+./towebsite
+
 # Auswertung
 
 
