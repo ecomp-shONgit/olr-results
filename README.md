@@ -19,13 +19,12 @@ Unterordner "4_altoxml": Daten im ALTO XML Format
 ## Stichprobe 1: 
   - Umfang 128 Seiten
   - Kennzeichen: Entwicklungsgrundlage der Software
-  - Quellen:
-    - http....
     
 ## Stichprobe 2:
   - Umfang 214 Seiten
   - Kennzeichen: bisher vom Programm unbearbeitete Seiten
-  - Quellen:
+  
+## digitale Quellen:
     - "boeckel_oratio_1589_00021": http://www.ocr-d.de/sites/all/GTDaten/wecker_kochbuch_1598.zip
     - "alberti_pictura_1540_0007", "alberti_pictura_1540_0008", "alberti_pictura_1540_0009": http://www.ocr-d.de/sites/all/GTDaten/alberti_pictura_1540.zip
     - "trota_mordtbrenner_1540_0011", "trota_mordtbrenner_1540_0013": http://www.ocr-d.de/sites/all/GTDaten/trota_mordtbrenner_1540.zip
@@ -52,12 +51,14 @@ Unterordner "4_altoxml": Daten im ALTO XML Format
     - "boeckel_oratio_1589_00021": http://www.ocr-d.de/sites/all/GTDaten/boeckel_oratio_1589.zip
     - "dorn_uppedat_1507_00017", "dorn_uppedat_1507_00032": http://www.ocr-d.de/sites/all/GTDaten/dorn_uppedat_1507.zip
 
-# Usage
+# Benutzung
 In den "ergXXXXXXXX" Ordnern liegt eine index.html, diese verweist auf die UnterOrdner. Mit dem Rust Programm in jedem Ordner kann ein index.html erzeugt werden, um eine Website zur Ansicht der Ergebnisse zu erzeugen.
 
 rustc towebsite.rs
 
 ./towebsite
+
+Für eine genaue Beurteilung sollten die Ergebnisse einzeln in einem passenden Viewer ausgewertet werden.
 
 # Auswertung
 
