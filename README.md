@@ -63,6 +63,10 @@ rustc towebsite.rs
 
 Stichprobe 1 (11.06.2019) http://ecomparatio.net/~khk/ergO11062019/index.html
 
+# Anwendungsbeispiele / alt. Darstellungen
+
+Buchseite als Explosionszeichnung: http://ecomparatio.net/~khk/explozei/
+
 
 
 
