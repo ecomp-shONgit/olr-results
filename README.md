@@ -50,12 +50,32 @@ Unterordner "4_altoxml": Daten im ALTO XML Format
 - "lucius_epithalamia_1585_00006", "lucius_epithalamia_1585_00014": http://www.ocr-d.de/sites/all/GTDaten/lucius_epithalamia_1585.zip
 - "boeckel_oratio_1589_00021": http://www.ocr-d.de/sites/all/GTDaten/boeckel_oratio_1589.zip
 - "dorn_uppedat_1507_00017", "dorn_uppedat_1507_00032": http://www.ocr-d.de/sites/all/GTDaten/dorn_uppedat_1507.zip
-- "SimpliciusCilicius310", "SimpliciusCilicius311", "SimpliciusCilicius312", "SimpliciusCilicius313", "SimpliciusCilicius314", "SimpliciusCilicius315", "SimpliciusCilicius316", "SimpliciusCilicius317", "SimpliciusCilicius318", "SimpliciusCilicius319", "SimpliciusCilicius320": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN789056194&PHYSID=PHYS 0001&DMDID=
-- "DionysiusHalicarnassensis170", "DionysiusHalicarnassensis171", "DionysiusHalicarnassensis172", "DionysiusHalicarnassensis173", "DionysiusHalicarnassensis174", "DionysiusHalicarnassensis175", "DionysiusHalicarnassensis176", "DionysiusHalicarnassensis177", "DionysiusHalicarnassensis178", "DionysiusHalicarnassensis179", "DionysiusHalicarnassensis180": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN788507346&PHYSID=PHYS 0001&DMDID=
-- "Pindarus350", "Pindarus351", "Pindarus352", "Pindarus353", "Pindarus354", "Pindarus355", "Pindarus356", "Pindarus357", "Pindarus358", "Pindarus359", "Pindarus360": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN788505882&PHYSID=PHYS 0001&DMDID=
-- "TheodorusGaza100", "TheodorusGaza101", "TheodorusGaza102", "TheodorusGaza103", "TheodorusGaza104", "TheodorusGaza105", "TheodorusGaza106", "TheodorusGaza141", "TheodorusGaza19", "TheodorusGaza7": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN789658240&PHYSID=PHYS 0001&DMDID=
-- "AldusManutius10", "AldusManutius11", "AldusManutius12", "AldusManutius13", "AldusManutius14", "AldusManutius15", "AldusManutius16", "AldusManutius18", "AldusManutius6", "AldusManutius7", "AldusManutius8", "AldusManutius9": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN633735027&PHYSID=PHYS 0001&DMDID=
-- "GiorgioInteriano10", "GiorgioInteriano11", "GiorgioInteriano12", "GiorgioInteriano13", "GiorgioInteriano14", "GiorgioInteriano15", "GiorgioInteriano16", "GiorgioInteriano17", "GiorgioInteriano18", "GiorgioInteriano19", "GiorgioInteriano22": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN626960193&PHYSID=PHYS 0001&DMDID=
+- "SimpliciusCilicius310", "SimpliciusCilicius311", "SimpliciusCilicius312", "SimpliciusCilicius313", "SimpliciusCilicius314", "SimpliciusCilicius315", "SimpliciusCilicius316", "SimpliciusCilicius317", "SimpliciusCilicius318", "SimpliciusCilicius319", "SimpliciusCilicius320": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN789056194
+- "DionysiusHalicarnassensis170", "DionysiusHalicarnassensis171", "DionysiusHalicarnassensis172", "DionysiusHalicarnassensis173", "DionysiusHalicarnassensis174", "DionysiusHalicarnassensis175", "DionysiusHalicarnassensis176", "DionysiusHalicarnassensis177", "DionysiusHalicarnassensis178", "DionysiusHalicarnassensis179", "DionysiusHalicarnassensis180": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN788507346
+- "Pindarus350", "Pindarus351", "Pindarus352", "Pindarus353", "Pindarus354", "Pindarus355", "Pindarus356", "Pindarus357", "Pindarus358", "Pindarus359", "Pindarus360": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN788505882
+- "TheodorusGaza100", "TheodorusGaza101", "TheodorusGaza102", "TheodorusGaza103", "TheodorusGaza104", "TheodorusGaza105", "TheodorusGaza106", "TheodorusGaza141", "TheodorusGaza19", "TheodorusGaza7": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN789658240
+- "AldusManutius10", "AldusManutius11", "AldusManutius12", "AldusManutius13", "AldusManutius14", "AldusManutius15", "AldusManutius16", "AldusManutius18", "AldusManutius6", "AldusManutius7", "AldusManutius8", "AldusManutius9": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN633735027
+- "GiorgioInteriano10", "GiorgioInteriano11", "GiorgioInteriano12", "GiorgioInteriano13", "GiorgioInteriano14", "GiorgioInteriano15", "GiorgioInteriano16", "GiorgioInteriano17", "GiorgioInteriano18", "GiorgioInteriano19", "GiorgioInteriano22": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN626960193
+- "E3-144rk": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_001.jpg
+- "E3-144r_002k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_002.jpg
+- "E3-144r_003k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_003.jpg
+- "E3-144r_004k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_004.jpg
+- "E3-144r_005k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_005.jpg
+- "E3-144r_006k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_006.jpg
+- "E3-144r_007k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_007.jpg
+- "E3-144r_008k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_008.jpg
+- "E3-144r_009k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144r_009.jpg
+- "E3-144vk": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_001.jpg
+- "E3-144v_002k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_002.jpg
+- "E3-144v_003k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_003.jpg
+- "E3-144v_004k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_004.jpg
+- "E3-144v_005k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_005.jpg
+- "E3-144v_006k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_006.jpg
+- "E3-144v_007k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_007.jpg
+- "E3-144v_008k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_008.jpg
+- "E3-144v_009k": http://www.homermultitext.org/hmt-image-archive/upsilon-1-1/E3-Multispectral/E3-144v_009.jpg
+
+
 
 # Benutzung
 In den "ergXXXXXXXX" Ordnern liegt eine index.html, diese verweist auf die UnterOrdner. Mit dem Rust Programm in jedem Ordner kann ein index.html erzeugt werden, um eine Website zur Ansicht der Ergebnisse zu erzeugen.
