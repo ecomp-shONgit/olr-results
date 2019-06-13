@@ -50,6 +50,12 @@ Unterordner "4_altoxml": Daten im ALTO XML Format
 - "lucius_epithalamia_1585_00006", "lucius_epithalamia_1585_00014": http://www.ocr-d.de/sites/all/GTDaten/lucius_epithalamia_1585.zip
 - "boeckel_oratio_1589_00021": http://www.ocr-d.de/sites/all/GTDaten/boeckel_oratio_1589.zip
 - "dorn_uppedat_1507_00017", "dorn_uppedat_1507_00032": http://www.ocr-d.de/sites/all/GTDaten/dorn_uppedat_1507.zip
+- "SimpliciusCilicius310", "SimpliciusCilicius311", "SimpliciusCilicius312", "SimpliciusCilicius313", "SimpliciusCilicius314", "SimpliciusCilicius315", "SimpliciusCilicius316", "SimpliciusCilicius317", "SimpliciusCilicius318", "SimpliciusCilicius319", "SimpliciusCilicius320": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN789056194&PHYSID=PHYS 0001&DMDID=
+- "DionysiusHalicarnassensis170", "DionysiusHalicarnassensis171", "DionysiusHalicarnassensis172", "DionysiusHalicarnassensis173", "DionysiusHalicarnassensis174", "DionysiusHalicarnassensis175", "DionysiusHalicarnassensis176", "DionysiusHalicarnassensis177", "DionysiusHalicarnassensis178", "DionysiusHalicarnassensis179", "DionysiusHalicarnassensis180": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN788507346&PHYSID=PHYS 0001&DMDID=
+- "Pindarus350", "Pindarus351", "Pindarus352", "Pindarus353", "Pindarus354", "Pindarus355", "Pindarus356", "Pindarus357", "Pindarus358", "Pindarus359", "Pindarus360": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN788505882&PHYSID=PHYS 0001&DMDID=
+- "TheodorusGaza100", "TheodorusGaza101", "TheodorusGaza102", "TheodorusGaza103", "TheodorusGaza104", "TheodorusGaza105", "TheodorusGaza106", "TheodorusGaza141", "TheodorusGaza19", "TheodorusGaza7": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN789658240&PHYSID=PHYS 0001&DMDID=
+- "AldusManutius10", "AldusManutius11", "AldusManutius12", "AldusManutius13", "AldusManutius14", "AldusManutius15", "AldusManutius16", "AldusManutius18", "AldusManutius6", "AldusManutius7", "AldusManutius8", "AldusManutius9": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN633735027&PHYSID=PHYS 0001&DMDID=
+- "GiorgioInteriano10", "GiorgioInteriano11", "GiorgioInteriano12", "GiorgioInteriano13", "GiorgioInteriano14", "GiorgioInteriano15", "GiorgioInteriano16", "GiorgioInteriano17", "GiorgioInteriano18", "GiorgioInteriano19", "GiorgioInteriano22": https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN626960193&PHYSID=PHYS 0001&DMDID=
 
 # Benutzung
 In den "ergXXXXXXXX" Ordnern liegt eine index.html, diese verweist auf die UnterOrdner. Mit dem Rust Programm in jedem Ordner kann ein index.html erzeugt werden, um eine Website zur Ansicht der Ergebnisse zu erzeugen.
@@ -63,6 +69,8 @@ Für eine genaue Beurteilung sollten die Ergebnisse einzeln in einem passenden V
 # Auswertung
 
 Stichprobe 1 (11.06.2019) http://ecomparatio.net/~khk/ergO11062019/index.html
+
+Stichprobe 2 (12.06.2019) http://ecomparatio.net/~khk/ergO12062019/index.html
 
 # Anwendungsbeispiele / alt. Darstellungen
 
