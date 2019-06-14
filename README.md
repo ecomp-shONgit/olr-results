@@ -91,9 +91,17 @@ Für eine genaue Beurteilung sollten die Ergebnisse einzeln in einem passenden V
 
 # Auswertung
 
-Stichprobe 1 (11.06.2019) http://ecomparatio.net/~khk/ergO11062019/index.html
+## Stichprobe 1 (11.06.2019) 
 
-Stichprobe 2 (12.06.2019) http://ecomparatio.net/~khk/ergO12062019/index.html
+Nach Analyse geordnet: http://ecomparatio.net/~khk/ergO11062019/index.html
+
+Nach Faksimile geordnet: http://ecomparatio.net/~khk/ergO11062019/index10.html
+
+## Stichprobe 2 (12.06.2019)
+
+Nach Analyse geordnet: http://ecomparatio.net/~khk/ergO12062019/index.html
+
+Nach Faksimile geordent: http://ecomparatio.net/~khk/ergO12062019/index10.html
 
 # Anwendungsbeispiele / alt. Darstellungen
 
