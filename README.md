@@ -107,6 +107,10 @@ Nach Faksimile geordent: http://ecomparatio.net/~khk/ergO12062019/index10.html
 
 Buchseite als Explosionszeichnung: http://ecomparatio.net/~khk/explozei/
 
+# Veröffentlichungen
 
+Zur Implementieurng und zum Gegenstand:
+
+Dissertation "Form und Formalisierung": https://nbn-resolving.de/urn:nbn:de:bsz:15-qucosa2-742044
 
 
